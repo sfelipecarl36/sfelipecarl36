@@ -1,7 +1,7 @@
 Olá 👋 me chamo Felipe Carlos
 ===============================
 
-Desenvolvedor Full-Stack | Designer Gráfico
+Desenvolvedor Full Stack | Designer Gráfico
 ---------------
 
 * 🌍  Belém, Brazil
@@ -12,6 +12,7 @@ src="https://img.shields.io/github/followers/sfelipecarl36?logo=github&style=for
 
 * 🖥️  Veja meu Portfólio: [Meu Currículo](https://sfelipecarl36.github.io)
 * 🌍  Meu site de divulgação de um produto: [hometv.website](https://hometv.website)
+* 🌍  Meu Encurtador de URL online: [encurta.xyz](https://encurta.xyz)
 
 ### Skills/Habilidades
 
