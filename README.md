@@ -1,7 +1,7 @@
 Olá 👋 me chamo Felipe Carlos
 ===============================
 
-Desenvolvedor Full Stack | Designer Gráfico
+Desenvolvedor de Software | Cientista da Computação
 ---------------
 
 * 🌍  Belém, Brazil
@@ -10,10 +10,9 @@ Desenvolvedor Full Stack | Designer Gráfico
 <a href="https://www.github.com/sfelipecarl36" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sfelipecarl36?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-* 🖥️  Veja meu Portfólio: [Meu Currículo](https://sfelipecarl36.github.io)
+* 🖥️  Veja meu Portfólio (Currículo Online): [Meu Currículo](https://sfelipecarl36.github.io)
 * 🌍  Meu TCC (Aplicativo CoachFit na Web): [coachfit.online](https://coachfit.online)
 * 🌍  Meu Encurtador de URL: [encurta.xyz](https://encurta.xyz)
-* 🌍  Meu site de divulgação de um produto: [hometv.website](https://hometv.website)
 
 ### Skills/Habilidades
 
