@@ -42,5 +42,3 @@ src="https://img.shields.io/github/followers/sfelipecarl36?logo=github&style=for
 <b>Minhas Estatísticas GitHub</b>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sfelipecarl36&theme=algolia&show_icons=true&card_width=495&layout=compact&locale=pt-BR)](https://github.com/sfelipecarl36)
-
-<a href="http://www.github.com/sfelipecarl36"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sfelipecarl36&locale=pt-BR&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
