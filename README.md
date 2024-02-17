@@ -10,7 +10,7 @@ Desenvolvedor de Software | Cientista da Computação
 <a href="https://www.github.com/sfelipecarl36" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sfelipecarl36?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-* 🖥️  Veja meu Portfólio (Currículo Online): [Meu Currículo](https://sfelipecarl36.github.io)
+* 🖥️  Veja meu Portfólio (Currículo Online): [Currículo Online](https://sfelipecarl36.github.io)
 * 🖥️  Meu Currículo: [Currículo](https://programathor.s3.sa-east-1.amazonaws.com/uploads/user/curriculum/221334/Curriculo_FelipeCarlos2024.pdf?X-Amz-Expires=600&X-Amz-Date=20240216T084954Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIIL73EXGLO35ED5Q%2F20240216%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2ab539af6ba0abca96c1a5295daa09e532eb749c86613e7b8f7dc26bc26001c7)
 * 🌍  Meu TCC (Aplicativo CoachFit na Web): [coachfit.online](https://coachfit.online)
 * 🌍  Meu Encurtador de URL: [encurta.xyz](https://encurta.xyz)
