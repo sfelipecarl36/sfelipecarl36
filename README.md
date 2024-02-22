@@ -5,7 +5,7 @@ Desenvolvedor de Software | Cientista da Computação
 ---------------
 
 * 🌍  Belém, Brazil
-* ✉️  Você pode entrar em contato pelo E-mail: [feliperara2000@hotmail.com](mailto:feliperara2000@hotmail.com)
+* ✉️  Você pode entrar em contato pelo E-mail: [felipecarlosrabelo@gmail.com](mailto:felipecarlosrabelo@gmail.com)
 
 <a href="https://www.github.com/sfelipecarl36" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sfelipecarl36?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
