@@ -1,7 +1,7 @@
 Hello There 👋 my name is Felipe Carlos
 ===============================
 
-Software Developer | Bachelor in Computer Science
+Software Developer | Bachelor of Computer Science
 ---------------
 
 * 🌍  Belém, Brazil
